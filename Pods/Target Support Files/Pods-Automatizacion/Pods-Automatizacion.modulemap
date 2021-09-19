@@ -1,0 +1,6 @@
+framework module Pods_Automatizacion {
+  umbrella header "Pods-Automatizacion-umbrella.h"
+
+  export *
+  module * { export * }
+}
